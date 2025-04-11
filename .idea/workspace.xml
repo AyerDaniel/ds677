@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d769bc8-5d51-4197-be8e-55f79c0a462e" name="Changes" comment="Copying Files to Branch">
+      <changelist_data name="AyerDaniel" email="167727045+ayerdaniel@users.noreply.github.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ds677.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/dl_677_distilbert_based_train-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Milestone 3- AYER&amp;GUREL.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_200k_RCT_numbers_replaced_with_at_sign/dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_200k_RCT_numbers_replaced_with_at_sign/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_200k_RCT_numbers_replaced_with_at_sign/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_200k_RCT_numbers_replaced_with_at_sign/train.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_20k_RCT_numbers_replaced_with_at_sign/dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_20k_RCT_numbers_replaced_with_at_sign/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/PubMed_20k_RCT_numbers_replaced_with_at_sign/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pubmed-rct-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dl_677_distilbert_based_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dl_677_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processing/process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processing/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visuals/word_frequency_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visuals/word_frequency_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visuals/word_frequency_histogram.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AyerDaniel &lt;167727045+ayerdaniel@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AyerDaniel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AyerDaniel/ds677.git&quot;,
+    &quot;accountId&quot;: &quot;3463c149-2614-4443-ad86-ad04cca78a84&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2v5aoPU8SttNM79WoPRsNm1x1cE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.process.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;daniel&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/danielayer/Desktop/njit/Spring 2025/Deep Learning/project/ds677&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d769bc8-5d51-4197-be8e-55f79c0a462e" name="Changes" comment="" />
+      <created>1743437562994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743437562994</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated Tokenization of Labels&#10;Ran Model Without Dropout&#10;Confirmed Code Ran With No Error">
+      <option name="closed" value="true" />
+      <created>1744382271583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744382271583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Copying Files to Branch">
+      <option name="closed" value="true" />
+      <created>1744382637132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744382637132</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Merge pull request #2 from AyerDaniel/fahriye&#10;&#10;Created using Colab- data preparation" />
+    <MESSAGE value="Updated Tokenization of Labels&#10;Ran Model Without Dropout&#10;Confirmed Code Ran With No Error" />
+    <MESSAGE value="Copying Files to Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copying Files to Branch" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
